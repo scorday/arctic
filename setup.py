@@ -79,7 +79,7 @@ setup(
                       #"enum34",
                       "mock",
                       "mockextras",
-                      "pandas<=1.0.3",
+                      "pandas<=1.3.5",
                       "numpy<=1.22.0",
                       "pymongo>=3.6.0, <= 3.12.3",
                       #"pytest-server-fixtures", # must be manual
